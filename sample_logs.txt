@@ -1,0 +1,5 @@
+User login successful from 192.168.1.5
+Failed password for admin from 45.33.32.1
+powershell.exe -enc ZABpAHIA
+Connection made to 185.243.115.84
+SHA256: abcd1234malwarehash

@@ -1,0 +1,5 @@
+[IOC DETECTED] 45.33.32.1 -> Failed password for admin from 45.33.32.1
+[FAILED LOGIN] -> Failed password for admin from 45.33.32.1
+[ENCODED POWERSHELL] -> powershell.exe -enc ZABpAHIA
+[IOC DETECTED] 185.243.115.84 -> Connection made to 185.243.115.84
+[IOC DETECTED] abcd1234malwarehash -> SHA256: abcd1234malwarehash
